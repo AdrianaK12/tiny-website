@@ -1,0 +1,44 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+ #about_blue {
+ 	border: 3px solid black;
+ }
+ #about_yellow {
+ 	border: 3px solid black;
+ }
+ #about_blue {
+ 	background-color: #6495ED;
+}
+#about_yellow {
+	background-color: #FFEBCD;
+}
+
+#about_blue li {
+	color: blue;
+}
+#about_blue li.important {
+	font-weight: bold;
+	font-size: 16px;
+}
+#about_yellow li {
+	color: orange;
+}
+#about_yellow li.important {
+	font-weight: bold;
+	font-size: 16px;
+}
+ul.nav li{
+    background-color: red;
+    }
+ul.nav li #Home {
+	text: white;
+}
+.nav a {
+	color: white;
+}
